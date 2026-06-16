@@ -1,2 +1,25 @@
-# optometry-eye-care-proposal-and-contract-template-pack
-Professional proposals, contracts, SOWs, and NDAs tailored for Optometry &amp; Eye Care businesses. Close deals faster with polished documents.
+# Optometry & Eye Care Proposal and Contract Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu5kD7r13o8f447jCd0q02)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu5kD7r13o8f447jCd0q02)
+
